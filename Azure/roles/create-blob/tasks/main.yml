@@ -25,3 +25,5 @@
     AZURE_CLIENT_ID: '{{pl_azure_client_id}}'
     AZURE_SECRET: '{{pl_azure_secret}}'
     AZURE_TENANT: '{{pl_azure_tenant}}'
+    
+    # adding test line 
